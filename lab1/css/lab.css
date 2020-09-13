@@ -1,0 +1,11 @@
+.major-section{
+  font-family: fantasy;
+  letter-spacing: 2.5px;
+  background-color: red;
+}
+
+.bio{
+  font-family: monospace;
+  font-size: 25px;
+  color: yellow
+}
